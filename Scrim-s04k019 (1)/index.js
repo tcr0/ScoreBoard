@@ -4,8 +4,7 @@ let homeScoreBtnOne = document.getElementById("score-btn-one");
 let homeScoreBtnTwo = document.getElementById("score-btn-two");
 let homeScoreBtnThree = document.getElementById("score-btn-three");
 let homeScoreElement = document.getElementById("home-score");
-let guestScoreElement = document.getElementById("guest-score");
-let newGameScoreElmenet = document.getElementById("newgame-btn");
+let guestScoreElement = document.getElementById("guest-score");let newGameScoreElement = document.getElementById("newgame-btn");
 
 homeScoreElement.textContent = homeScore;
 guestScoreElement.textContent = guestScore;
